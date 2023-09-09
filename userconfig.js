@@ -308,8 +308,8 @@ const default_config = {
           name: "stuff",
           links: [
             {
-              name: "linkedin",
-              url: "https://www.linkedin.com/feed/",
+              name: "vk",
+              url: "https://vk.com",
               icon: "brand-linkedin",
               icon_color: "#7daea3",
             },
